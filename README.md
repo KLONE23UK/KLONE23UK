@@ -10,7 +10,6 @@
 🌱 I’m currently learning;
 - **Python**
   - Flask
-- **React**
 <!--
 Experianced
  
